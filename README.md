@@ -13,15 +13,15 @@ you gain points for every solved challenge and you get more points for solving m
 ### Here are some challenges to get you started (ง •̀_•́)ง :
 
 ## WEB:
-- #### [CHALLENGE 1](http://hack.bckdr.in/2013-WEB-50/getflag.php) .. Hint: 🍪
-- #### [CHALLENGE 2](http://hack.bckdr.in/BRWSR/) .. Hint [User-Agent](https://en.wikipedia.org/wiki/User_agent)
+- #### [CHALLENGE 0x01](http://hack.bckdr.in/2013-WEB-50/getflag.php) .. Hint: 🍪
+- #### [CHALLENGE 0x02](http://hack.bckdr.in/BRWSR/) .. Hint [User-Agent](https://en.wikipedia.org/wiki/User_agent)
 
 ## CRYPTO:
-- #### [CHALLENGE 1](https://github.com/B4ss4m/CTF101/blob/master/Crypto%20Challenge.md) .. [Hint](http://southernshakespearefestival.org/wp-content/uploads/2016/08/Caesar-Salad-768x665.jpg)
-- #### [CHALLENGE 2](https://github.com/B4ss4m/CTF101/blob/master/Decrypt%20Me!!.md) .. [Hint](https://static.comicvine.com/uploads/scale_small/5/58127/1220284-441px_samuel_morse_1840.jpg)
+- #### [CHALLENGE 0x01](https://github.com/B4ss4m/CTF101/blob/master/Crypto%20Challenge.md) .. [Hint](http://southernshakespearefestival.org/wp-content/uploads/2016/08/Caesar-Salad-768x665.jpg)
+- #### [CHALLENGE 0x02](https://github.com/B4ss4m/CTF101/blob/master/Decrypt%20Me!!.md) .. [Hint](https://static.comicvine.com/uploads/scale_small/5/58127/1220284-441px_samuel_morse_1840.jpg)
 
 ## REVERSING:
-- #### [CHALLENGE 1](https://backdoor.sdslabs.co/challenges/2013-BIN-50) .. [Hint](https://www.lifewire.com/strings-linux-command-4093452)
+- #### [CHALLENGE 0x01](https://backdoor.sdslabs.co/challenges/2013-BIN-50) .. [Hint](https://www.lifewire.com/strings-linux-command-4093452)
 
 ## MISC:
 
