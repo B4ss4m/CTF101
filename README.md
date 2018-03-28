@@ -13,6 +13,7 @@ you gain points for every solved challenge and you get more points for solving m
 ### Here are some challenges to get you started:
 
 - #### [WEB CHALLENGE](http://hack.bckdr.in/2013-WEB-50/getflag.php) .. Hint: 🍪
+- #### [WEB CHALLENGE 2](http://hack.bckdr.in/BRWSR/) .. Hint [User-Agent](https://en.wikipedia.org/wiki/User_agent)
 - #### [CRYPTO CHALLENGE](https://github.com/B4ss4m/CTF101/blob/master/Crypto%20Challenge.md)
 - #### [CRYPTO CHALLENGE 2](https://github.com/B4ss4m/CTF101/blob/master/Decrypt%20Me!!.md)
 
