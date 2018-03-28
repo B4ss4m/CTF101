@@ -10,7 +10,7 @@ you gain points for every solved challenge and you get more points for solving m
 
 **Attack-Defense CTFs** in this kind of CTFs every team has their own network but with vulnerable services, so they have to patch their services and at the same time attack other teams networks.
 
-### Here are some challenges to get you started:
+### Here are some challenges to get you started (ง •̀_•́)ง :
 
 - #### [WEB CHALLENGE](http://hack.bckdr.in/2013-WEB-50/getflag.php) .. Hint: 🍪
 - #### [WEB CHALLENGE 2](http://hack.bckdr.in/BRWSR/) .. Hint [User-Agent](https://en.wikipedia.org/wiki/User_agent)
