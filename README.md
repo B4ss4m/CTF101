@@ -22,6 +22,7 @@ you gain points for every solved challenge and you get more points for solving m
 
 ## REVERSING:
 - #### [CHALLENGE 0x01](https://backdoor.sdslabs.co/challenges/2013-BIN-50) .. [Hint](https://www.lifewire.com/strings-linux-command-4093452)
+- #### [CHALLENGE 0x02](https://backdoor.sdslabs.co/challenges/HIDE-MEDIUM) .. Hint: Use gdb in linux, here is a [Cheat Sheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
 
 ## MISC:
 
