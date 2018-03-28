@@ -14,8 +14,8 @@ you gain points for every solved challenge and you get more points for solving m
 
 - #### [WEB CHALLENGE](http://hack.bckdr.in/2013-WEB-50/getflag.php) .. Hint: 🍪
 - #### [WEB CHALLENGE 2](http://hack.bckdr.in/BRWSR/) .. Hint [User-Agent](https://en.wikipedia.org/wiki/User_agent)
-- #### [CRYPTO CHALLENGE](https://github.com/B4ss4m/CTF101/blob/master/Crypto%20Challenge.md)
-- #### [CRYPTO CHALLENGE 2](https://github.com/B4ss4m/CTF101/blob/master/Decrypt%20Me!!.md)
+- #### [CRYPTO CHALLENGE](https://github.com/B4ss4m/CTF101/blob/master/Crypto%20Challenge.md) .. [Hint](http://southernshakespearefestival.org/wp-content/uploads/2016/08/Caesar-Salad-768x665.jpg)
+- #### [CRYPTO CHALLENGE 2](https://github.com/B4ss4m/CTF101/blob/master/Decrypt%20Me!!.md) .. [Hint](https://static.comicvine.com/uploads/scale_small/5/58127/1220284-441px_samuel_morse_1840.jpg)
 
 
 
