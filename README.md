@@ -12,7 +12,7 @@ you gain points for every solved challenge and you get more points for solving a
 
 ### Here are some challenges to get you started:
 
-- #### [WEB CHALLENGE](https://backdoor.sdslabs.co/challenges/2013-WEB-50) .. Hint: 🍪
+- #### [WEB CHALLENGE](http://hack.bckdr.in/2013-WEB-50/getflag.php) .. Hint: 🍪
 - #### [CRYPTO CHALLENGE](https://github.com/B4ss4m/CTF101/blob/master/Crypto%20Challenge.md)
 - #### [CRYPTO CHALLENGE 2](https://github.com/B4ss4m/CTF101/blob/master/Decrypt%20Me!!.md)
 
