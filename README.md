@@ -6,7 +6,7 @@ CTF is an information security competition that has a series of challenges to te
 **Jeopardy-style CTFs** and **Attack-Defense CTFs**.
 
 **Jeopardy-style CTFs** has different types of categories, For example, Web, Forensic, Crypto, Binary and more.
-you gain points for every solved challenge and you get more points for solving a more complicated challenges.
+you gain points for every solved challenge and you get more points for solving more complicated challenges.
 
 **Attack-Defense CTFs** in this kind of CTFs every team has their own network but with vulnerable services, so they have to patch their services and at the same time attack other teams networks.
 
