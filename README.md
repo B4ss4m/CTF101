@@ -24,16 +24,12 @@ you gain points for every solved challenge and you get more points for solving m
 - #### [CHALLENGE 0x01](https://backdoor.sdslabs.co/challenges/2013-BIN-50) .. [Hint](https://www.lifewire.com/strings-linux-command-4093452)
 - #### [CHALLENGE 0x02](https://backdoor.sdslabs.co/challenges/HIDE-MEDIUM) .. Hint: Use gdb in linux, here is a [Cheat Sheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
 
-## MISC:
-
-
-
 
 
 
 ### Useful tools to use in your CTFs ᕙ(⇀‸↼‶)ᕗ
 
-#### WEB:
+### WEB:
 - BurpSuite
 - Postman
 - Fiddler
@@ -41,12 +37,12 @@ you gain points for every solved challenge and you get more points for solving m
 - Sublist3r
 - Inspector tools
 
-#### Scanning:
+### Scanning:
 - Nmap
 - Zenmap
 - UnicornScan
 
-#### Cracking:
+### Cracking:
 - HashCat
 - John the ripper
 - Hydra
