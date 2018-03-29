@@ -74,6 +74,7 @@ you gain points for every solved challenge and you get more points for solving m
 - [VulnHub](https://www.vulnhub.com/)
 - [RingZer0](https://ringzer0team.com/)
 - [Pwnable.kr](http://pwnable.kr/)
+- [Flare-On](https://www.fireeye.com/blog/threat-research/2017/10/2017-flare-on-challenge-solutions.html)
 
 ### Websites that provide courses in Information Security:
 - [Cybrary](https://cybrary.it/)
