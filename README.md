@@ -10,6 +10,8 @@ you gain points for every solved challenge and you get more points for solving m
 
 **Attack-Defense CTFs** in this kind of CTFs every team has their own network but with vulnerable services, so they have to patch their services and at the same time attack other teams networks.
 
+[**here is a great video by Liveoverflow explaning all of that**](https://youtu.be/8ev9ZX9J45A)
+
 ### Here are some challenges to get you started (ง •̀_•́)ง
 
 ## WEB:
@@ -23,7 +25,6 @@ you gain points for every solved challenge and you get more points for solving m
 ## REVERSING:
 - #### [CHALLENGE 0x01](https://backdoor.sdslabs.co/challenges/2013-BIN-50) .. [Hint](https://www.lifewire.com/strings-linux-command-4093452)
 - #### [CHALLENGE 0x02](https://backdoor.sdslabs.co/challenges/HIDE-MEDIUM) .. Hint: Use gdb in linux, here is a [Cheat Sheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
-
 
 
 
